@@ -1,1 +1,3 @@
-# PowerShell.Utility
+# Nrju.PowerShell.Utility
+
+Various PowerShell utilities.
